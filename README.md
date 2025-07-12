@@ -111,22 +111,3 @@ jupyter notebook Credit_Card_Fraud_Detection.ipynb
 ```
 
 ---
-
-## 📌 Future Work
-
-- Implement SMOTE or ADASYN for oversampling
-- Try deep learning models (e.g., autoencoders, LSTM)
-- Real-time fraud detection simulation
-- Hyperparameter tuning with GridSearchCV
-
----
-
-## 🙌 Acknowledgements
-
-- Dataset provided by **UCI Machine Learning Repository** and **Worldline and the Machine Learning Group of ULB (Université Libre de Bruxelles)**.
-
----
-
-## 📬 Contact
-
-Feel free to connect via [LinkedIn](https://www.linkedin.com/) or raise an issue for suggestions!
